@@ -1,1 +1,1 @@
-This is for kumaza dojo
+This is for kumaza dojo site
